@@ -1,6 +1,6 @@
 # DevTipMultiSelectFix
 
-A [NeosModLoader](https://github.com/zkxs/NeosModLoader) mod for [Neos VR](https://neos.com/) that does fixes Multi-select mode of the Dev Tool Tip to actually allow you to reselect something that you just deselected.
+A [NeosModLoader](https://github.com/zkxs/NeosModLoader) mod for [Neos VR](https://neos.com/) that fixes Multi-select mode of the Dev Tool Tip to actually allow you to reselect something that you just deselected.
 
 ## Installation
 1. Install [NeosModLoader](https://github.com/zkxs/NeosModLoader).
