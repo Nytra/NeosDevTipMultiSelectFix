@@ -21,7 +21,7 @@ namespace DevTipMultiSelectFix
         }
 		
         [HarmonyPatch(typeof(DevToolTip), "TryOpenGizmo")]
-        class ModNameGoesHerePatch
+        class DevTipMultiSelectFixPatch
         {
             public static IEnumerable<CodeInstruction> Transpiler(IEnumerable<CodeInstruction> instructions)
             {
